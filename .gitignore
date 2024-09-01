@@ -1,0 +1,4 @@
+# Project exclude paths
+/mongodb/.gradle/
+/mongodb/build/
+/mongodb/build/classes/java/main/

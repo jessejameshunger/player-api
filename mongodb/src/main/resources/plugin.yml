@@ -1,0 +1,4 @@
+name: mongodb
+version: '${version}'
+main: de.james.mongodb.Mongodb
+api-version: '1.21'
